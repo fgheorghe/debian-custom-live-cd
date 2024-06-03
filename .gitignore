@@ -1,0 +1,4 @@
+iso/
+*.squashfs
+*.iso
+squashfs-root/
